@@ -2,9 +2,9 @@
   "description": "<p>here, baron speaks</p>",
   "cta": "<p>To get started, import this site into Forestry or checkout the repository <a href=\"https://github.com/kendallstrautman/starter-blog-gatsby\" title=\"Repo Url\">here</a>.</p>",
   "contact": {
-    "email": "info@forestry.io",
-    "twitter_handle": "forestryio",
-    "github_handle": "forestryio"
+    "email": "thebaronalex@gmail.com",
+    "twitter_handle": "",
+    "github_handle": "thebaronalex"
   },
   "background_color": "#83A0A0",
   "text_color": "#ebebeb"
