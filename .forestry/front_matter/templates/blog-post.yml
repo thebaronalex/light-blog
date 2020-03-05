@@ -25,4 +25,5 @@ fields:
   name: hero_image
   label: hero_image
 pages:
+- src/assets/content/blog/malad-gorge.md
 - src/assets/content/blog/sunflower-sutra.md
