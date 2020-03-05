@@ -1,9 +1,9 @@
 {
   "description": "<p>here, baron speaks</p>",
-  "cta": "<p>Go.</p>",
+  "cta": "<p></p>",
   "contact": {
     "email": "thebaronalex@gmail.com",
-    "twitter_handle": "",
+    "twitter_handle": "alexkapone",
     "github_handle": "thebaronalex"
   },
   "background_color": "#83A0A0",
