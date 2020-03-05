@@ -15,4 +15,6 @@ ok... so enough trying to be clever. today was a good day. Yesterday evening I s
 
 this heavily glaciated canyon in northern nevada serves as a miniature alps. while i couldn't drive ever to the bend in the canyon i will be going back once things warm up a bit.
 
-<iframe width="560" height="315" src="[https://www.youtube-nocookie.com/embed/GBuVjzwAOYE](https://www.youtube-nocookie.com/embed/GBuVjzwAOYE "https://www.youtube-nocookie.com/embed/GBuVjzwAOYE")" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+i got my edit on: [https://www.youtube.com/watch?v=GBuVjzwAOYE](https://www.youtube.com/watch?v=GBuVjzwAOYE "https://www.youtube.com/watch?v=GBuVjzwAOYE")
+
+i really enjoyed editing and i'm loving the workflow of divinci resolve. it is for sure an amazing digital editing platform for motion images.
